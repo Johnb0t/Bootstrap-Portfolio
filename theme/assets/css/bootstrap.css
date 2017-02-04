@@ -339,7 +339,9 @@ a:focus {
 img {
   vertical-align: middle;
 }
-
+.i1 {
+  border: black 1px solid;
+}
 .img-responsive {
   display: block;
   height: auto;
